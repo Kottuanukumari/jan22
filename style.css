@@ -1,0 +1,10 @@
+#d1{
+    width: 90px;
+    height: 40px;
+    background-color: chartreuse;
+    border: 5px double yellow;
+}
+#hideme{
+    font-size: 40px;
+    background-color: blueviolet
+}
